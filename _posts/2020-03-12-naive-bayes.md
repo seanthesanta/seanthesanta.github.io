@@ -4,6 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Generative Models
 tags:
+author_profile: false
 ---
 
 (Introduction to Naive Bayes: generative model, naive Bayes assumption)
