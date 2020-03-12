@@ -2,5 +2,5 @@
 layout: archive
 title: "Categories"
 permalink: /categories/
-author_profile: true
+author_profile: false
 ---
