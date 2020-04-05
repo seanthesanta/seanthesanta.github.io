@@ -1,0 +1,1 @@
+To configure MathJax, edit the following file: /_includes/scripts.html
