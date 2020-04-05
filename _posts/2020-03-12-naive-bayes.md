@@ -180,5 +180,9 @@ $$
 \phi_{k \vert y=0} &= \frac{\sum_{i=1}^{m}\sum_{j=1}^{d_i}1\{x_{j}^{(i)} = k \wedge y^{(i)} = 0 \}}{\sum_{i=1}^{m}1\{y^{(i)}=0\}d_i}\\
 \phi_{k \vert y=1} &= \frac{\sum_{i=1}^{m}\sum_{j=1}^{d_i}1\{x_{j}^{(i)} = k \wedge y^{(i)} = 1 \}}{\sum_{i=1}^{m}1\{y^{(i)}=1\}d_i}\\
 \end{align*}
-$$ 
+$$
+
+**REFERENCE**
+[1] http://cs229.stanford.edu/notes-spring2019/cs229-notes2.pdf
+[2] https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/bernoulli.pdf
 
