@@ -184,6 +184,6 @@ $$
 
 **REFERENCE**
 
-[1] http://cs229.stanford.edu/notes-spring2019/cs229-notes2.pdf
-[2] https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/bernoulli.pdf
+[1] <http://cs229.stanford.edu/notes-spring2019/cs229-notes2.pdf>
 
+[2] <https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/bernoulli.pdf>
