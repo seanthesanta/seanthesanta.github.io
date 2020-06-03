@@ -2,7 +2,7 @@
 title: "Naive Bayes: a brief introduction to generative models"
 excerpt_separator: "<!--more-->"
 categories:
-  - Generative Models
+	- Generative Models
 tags:
 author_profile: false
 ---
